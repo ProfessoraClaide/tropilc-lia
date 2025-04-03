@@ -15,7 +15,7 @@ body {
 
 header {
     background-color: #da2b2b;
-
+    align-items: center;
 }
 
 
@@ -47,7 +47,7 @@ section {
 .img-inicio {
     position: absolute;
     right: 0;
-    top: 10rem;
+    top: 18rem;
     width: 45rem;
     height: auto;
     background-color: blueviolet;
